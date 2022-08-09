@@ -45,6 +45,7 @@ body{
     border-radius: 30% ;
     border: solid 4px white;
     font-family: 'Common Pixel', sans-serif;
+    font-size: .6rem;
 }
 
 .controls{
